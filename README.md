@@ -8,4 +8,4 @@
 
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-- ![SwiperJS](https://img.shields.io/badge/-SwiperJS-6332F6?style=flat&logo=swiper&logoColor=white) Swiper JS
+![SwiperJS](https://img.shields.io/badge/-SwiperJS-6332F6?style=flat&logo=swiper&logoColor=white)
